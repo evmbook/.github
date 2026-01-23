@@ -6,7 +6,7 @@
 
 **Free. Open Source. Always Current.**
 
-[Read Online](https://masteringevm.com) | [Download PDF](https://masteringevm.com/downloads) | [Download EPUB](https://masteringevm.com/downloads) | [Contribute](https://github.com/evmbook)
+[Read Online](https://masteringevm.com/read) | [Download PDF](https://masteringevm.com/downloads) | [Download EPUB](https://masteringevm.com/downloads) | [Contribute](https://github.com/evmbook)
 
 ---
 
