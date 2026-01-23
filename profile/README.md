@@ -40,10 +40,10 @@ The frontier of blockchain development. How agentic coding multiplies developer 
 
 A unique feature of this book: **we cover both major EVM implementations**.
 
-| | Ethereum (ETH) | Ethereum Classic (ETC) |
-|---|---|---|
-| **Consensus** | Proof of Stake | Proof of Work |
-| **Philosophy** | Innovation-first | Immutability-first |
+| | Ethereum Classic (ETC) | Ethereum (ETH) |
+|---|---|---|---|
+| **Consensus** | Proof of Work | Proof of Stake |
+| **Philosophy** | Immutability-first | Innovation-first |
 | **Genesis** | July 30, 2015 | July 30, 2015 |
 | **Fork** | — | Block 1,920,000 |
 
@@ -81,9 +81,9 @@ Foundry, Hardhat, ethers.js v6, Solidity 0.8.x—we cover the tools developers a
 
 | Format | Description |
 |--------|-------------|
-| [**Read Online**](https://masteringevm.com) | Optimized web reading experience |
-| **PDF** | Coming soon |
-| **EPUB** | Coming soon |
+| [**Read Online**](https://masteringevm.com/read) | Optimized web reading experience |
+| [**PDF**](https://masteringevm.com/download) | Coming soon |
+| [**EPUB**](https://masteringevm.com/download) | Coming soon |
 
 ---
 
