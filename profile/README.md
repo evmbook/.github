@@ -60,7 +60,7 @@ Technical education shouldn't be gatekept behind paywalls. Read online, download
 The blockchain space moves fast. We continuously update content to reflect the current state of EVM development. No more learning from 2017 tutorials.
 
 ### Battle-Tested Content
-Built on the foundation of *Mastering Ethereum* by Andreas M. Antonopoulos and Gavin Wood, substantially rewritten and modernized for 2026.
+Built on the foundation of *Mastering Ethereum (Open Edition)* by Andreas M. Antonopoulos and Gavin Wood, substantially rewritten and modernized for 2026.
 
 ### Modern Tooling
 Foundry, Hardhat, ethers.js v6, Solidity 0.8.x—we cover the tools developers actually use today.
