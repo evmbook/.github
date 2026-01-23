@@ -41,7 +41,7 @@ The frontier of blockchain development. How agentic coding multiplies developer 
 A unique feature of this book: **we cover both major EVM implementations**.
 
 | | Ethereum Classic (ETC) | Ethereum (ETH) |
-|---|---|---|---|
+|---|---|---|
 | **Consensus** | Proof of Work | Proof of Stake |
 | **Philosophy** | Immutability-first | Innovation-first |
 | **Genesis** | July 30, 2015 | July 30, 2015 |
